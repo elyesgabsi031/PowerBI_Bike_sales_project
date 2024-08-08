@@ -1,5 +1,5 @@
 **INTRO** 
-This project was created as part of the Business Intelligence Course I attended at the school. 
+This project was created as part of the Business Intelligence Course I attended at the school Back in 2022.
 
 ## overview 
 The aim of this project was to provide the owner of a Bike company 
